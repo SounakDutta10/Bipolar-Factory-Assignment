@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['cell']
+
+roboflow:
+  workspace: ben-wxt69
+  project: test-ggjrh
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ben-wxt69/test-ggjrh/dataset/4
