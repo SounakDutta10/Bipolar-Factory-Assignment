@@ -64,14 +64,7 @@ python train.py
 
 ---
 
-## 📈 Evaluation
 
-Evaluate your model's performance on the test set:
-```bash
-python evaluate.py
-```
-
----
 
 ## 🎯 Inference / Demo
 
