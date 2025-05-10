@@ -1,0 +1,20 @@
+Experience Report
+Working on this assignment was certainly a learning experience. It began simply enough, but I encountered a couple of roadblocks that made the entire process something of a rollercoaster.
+
+Challenges I Faced
+The greatest challenge was resolving issues with the datasets—particularly path errors and label mismatches. The code used to crash repeatedly at one point because the labels were not all of the same shape, and it took me a while to understand why. Another difficult aspect was trying to get the model to train correctly because object detection is not a simple classification task—it has bounding boxes, which makes the loss computation and data handling more complicated.
+
+How I Utilized AI Tools
+I was using ChatGPT extensively for this project. Whenever I was stuck on a mistake or wanted assistance with how to do something, I'd ask it for advice. It assisted in setting up the training loop, creating custom data loading code, and even walked me through writing an evaluation script. I never did, however, copy and paste the response—I had to adjust and test everything to ensure it would work with my environment.
+
+What I Learned
+I gained a better understanding of what object detection entails under the covers, particularly data requirements and the process by which predictions are dealt with by the model. I also became accustomed to PyTorch, a positive development considering that I had largely worked in TensorFlow prior. 
+
+What Surprised Me
+I was surprised at how much time went into merely getting the dataset to load properly. I assumed all the work would be in model design or tuning, but it appears that the data pipeline is half the battle. And AI tools were more useful than I anticipated—without doing the work for me, but certainly guiding me in the right direction.
+
+Code vs. AI Assistance
+Employing AI did make me more efficient, I'm sure. But I still needed to learn the code to actually make progress. AI gave me a time savings on boilerplate and prevented me from getting stuck on each little mistake, but typing it and debugging it myself is what actually taught me.
+
+Suggestions to Improve the Assignment
+It would've been awesome to have some starter data set and perhaps a few functional code snippets to reference. Even having a "common pitfalls" list would've shaved a few hours of debugging.
