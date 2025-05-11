@@ -19,6 +19,16 @@ This project implements an object detection system using a hybrid YOLO-ResNet mo
 The architecture combines the speed of YOLO with the feature extraction strength of ResNet, delivering efficient and accurate object detection results.
 
 ---
+## 📥 Download & Setup
+
+1. **Download the project ZIP**  
+   Click the link below to download the complete project:
+
+   👉 [[Download yolo_resnet.zip](https://drive.google.com/file/d/1zvp2b9_cHN99Ucc-o9g44N7D95TQB3sQ/view?usp=sharing)
+
+2. **Extract the contents**  
+   Unzip the downloaded file to your desired working directory.
+
 
 ## 📁 Project Structure
 
